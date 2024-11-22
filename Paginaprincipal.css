@@ -1,0 +1,55 @@
+h1{
+   font-family: Abel;
+   text-align: center;
+  }
+  h2{
+   font-family: Abel;
+   text-align: center;
+  }
+   .primer{
+    color: rgb(9, 9, 240);
+    border-radius:8PX ;
+    font-family: Raleway;
+    }
+ .segundo{
+        color: rgb(9, 13, 236);
+     font-family: Raleway;
+        border-radius: 8PX;
+    padding: px;
+    }
+ .tercero{
+        border-radius: 8px;
+        color: rgb(9, 9, 252);
+        font-family: Raleway;
+    }
+ .cuarto{
+        font-family: Raleway;
+        border-radius: 8px;
+        color: rgb(9, 9, 252);
+    }
+    .Sonriza{
+      border-radius: 5 px;
+      background-color: rgb(121, 198, 221);
+    }
+ .Quinto{
+        font-family: Raleway;
+        border-radius: 8px;
+        color: rgb(9, 9, 252);
+    }
+    .condicion{
+      display: inline-flex;
+    }
+    .hola{
+      background-color: rgb(126, 231, 222);
+    }
+ .sexto{
+    width: 100%;
+    
+    }
+ .septimo{
+        background-color: rgb(255, 249, 249);
+        color: rgb(9, 123, 223);
+    }
+  body{
+    background-color: rgb(160, 236, 236);
+  }
